@@ -32,4 +32,4 @@ To develop an AR mobile application that allows users to scan a predefined image
 - Real-time model rendering
 
 ## Screenshots
-*Add screenshots of the application here.
+(https://github.com/shreevarshan177/Unity-College-Project/issues/1#issue-4761160217)
